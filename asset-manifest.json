@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b31b4f5.chunk.css",
-    "main.js": "/static/js/main.aee4754c.chunk.js",
-    "main.js.map": "/static/js/main.aee4754c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4339b457.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4339b457.js.map",
-    "static/js/2.a2a61cb1.chunk.js": "/static/js/2.a2a61cb1.chunk.js",
-    "static/js/2.a2a61cb1.chunk.js.map": "/static/js/2.a2a61cb1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4b31b4f5.chunk.css.map": "/static/css/main.4b31b4f5.chunk.css.map",
-    "static/js/2.a2a61cb1.chunk.js.LICENSE.txt": "/static/js/2.a2a61cb1.chunk.js.LICENSE.txt",
-    "static/media/clouds.70981c76.mp4": "/static/media/clouds.70981c76.mp4",
-    "static/media/earth.2830c4e0.png": "/static/media/earth.2830c4e0.png"
+    "main.css": "/new-weather/static/css/main.4b31b4f5.chunk.css",
+    "main.js": "/new-weather/static/js/main.aee4754c.chunk.js",
+    "main.js.map": "/new-weather/static/js/main.aee4754c.chunk.js.map",
+    "runtime-main.js": "/new-weather/static/js/runtime-main.7e7acf67.js",
+    "runtime-main.js.map": "/new-weather/static/js/runtime-main.7e7acf67.js.map",
+    "static/js/2.a2a61cb1.chunk.js": "/new-weather/static/js/2.a2a61cb1.chunk.js",
+    "static/js/2.a2a61cb1.chunk.js.map": "/new-weather/static/js/2.a2a61cb1.chunk.js.map",
+    "index.html": "/new-weather/index.html",
+    "static/css/main.4b31b4f5.chunk.css.map": "/new-weather/static/css/main.4b31b4f5.chunk.css.map",
+    "static/js/2.a2a61cb1.chunk.js.LICENSE.txt": "/new-weather/static/js/2.a2a61cb1.chunk.js.LICENSE.txt",
+    "static/media/clouds.70981c76.mp4": "/new-weather/static/media/clouds.70981c76.mp4",
+    "static/media/earth.2830c4e0.png": "/new-weather/static/media/earth.2830c4e0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4339b457.js",
+    "static/js/runtime-main.7e7acf67.js",
     "static/js/2.a2a61cb1.chunk.js",
     "static/css/main.4b31b4f5.chunk.css",
     "static/js/main.aee4754c.chunk.js"
