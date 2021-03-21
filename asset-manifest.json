@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b3f922f.chunk.css",
-    "main.js": "/static/js/main.b6c57711.chunk.js",
-    "main.js.map": "/static/js/main.b6c57711.chunk.js.map",
+    "main.css": "/static/css/main.4b31b4f5.chunk.css",
+    "main.js": "/static/js/main.d6c245ed.chunk.js",
+    "main.js.map": "/static/js/main.d6c245ed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4339b457.js",
     "runtime-main.js.map": "/static/js/runtime-main.4339b457.js.map",
     "static/js/2.a2a61cb1.chunk.js": "/static/js/2.a2a61cb1.chunk.js",
     "static/js/2.a2a61cb1.chunk.js.map": "/static/js/2.a2a61cb1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9b3f922f.chunk.css.map": "/static/css/main.9b3f922f.chunk.css.map",
+    "static/css/main.4b31b4f5.chunk.css.map": "/static/css/main.4b31b4f5.chunk.css.map",
     "static/js/2.a2a61cb1.chunk.js.LICENSE.txt": "/static/js/2.a2a61cb1.chunk.js.LICENSE.txt",
+    "static/media/clouds.70981c76.mp4": "/static/media/clouds.70981c76.mp4",
     "static/media/earth.2830c4e0.png": "/static/media/earth.2830c4e0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4339b457.js",
     "static/js/2.a2a61cb1.chunk.js",
-    "static/css/main.9b3f922f.chunk.css",
-    "static/js/main.b6c57711.chunk.js"
+    "static/css/main.4b31b4f5.chunk.css",
+    "static/js/main.d6c245ed.chunk.js"
   ]
 }
